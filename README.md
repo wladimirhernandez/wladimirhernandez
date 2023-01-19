@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @wladimirhernandez
 - 👀 I’m interested in Frontend Development
+- 🌱 I’m currently Working with Angular
 - 🌱 I’m currently learning Reactjs
-- 🌱 I’m currently Working in SoloMediaGroup
+- 🌱 I’m currently Working in Insoftar
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me wladimirhernandezdev@gmail.com
 
