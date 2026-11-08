@@ -14,6 +14,16 @@
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/wladimirhernandez/skill-tree-concept">
+        <img src="assets/skill-tree.gif" alt="Hexagonal skill tree where nodes are bought, reveal their neighbours and are applied with gold unlock animations" />
+      </a>
+      <p><strong><a href="https://github.com/wladimirhernandez/skill-tree-concept">Skill Tree</a></strong><br />
+      A hexagonal RPG skill tree with unlock animations, built with the NoesisGUI native C++ SDK.<br />
+      <sub>C++ · NoesisGUI · XAML · MVVM</sub></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/wladimirhernandez/forza-telemetry">
         <img src="assets/forza-telemetry.jpg" alt="Forza Telemetry dashboard with tire temperatures, shift lights and engine data" />
